@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Suwannaphum
+- Font Author: Copyright (c) 2013, Danh Hong (khmertype.org)
+- Font Source: http://fonts.gstatic.com/s/suwannaphum/v16/jAnCgHV7GtDvc8jbe8hXXIWl_8C0Wg2V.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
